@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.result {
+  font-size: 0.75rem;
+  color: "gray";
+  font-style: italic;
+}
+.btn {
+  padding : 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+}
+
+
+.row {
+  padding : 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+}
+
+.controls {
+  padding : 5px 5px 5px 5px;
+  margin: 20px 5px 5px 5px;
+}
+
+.display {
+  padding : 5px 5px 5px 5px;
+  margin: 10px 5px 5px 5px;
+}
+
+.calculator {
+  padding : 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+}
